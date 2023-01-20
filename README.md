@@ -4,6 +4,7 @@ Tagging a release on this repository will update the:
 
 - [Node.js SDK repo](https://github.com/fern-mercoa/mercoa-node)
 - [OpenAPI spec repo](https://github.com/fern-mercoa/mercoa-openapi)
+- [Postman repo](https://github.com/fern-mercoa/mercoa-postman)
 - _More SDKs to come..._
 
 ## What is in this repository?
